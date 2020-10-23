@@ -14,8 +14,6 @@ Each letter may not be used more than the number of times it appears in the ente
 
 <hr>
 
-When I enter THE on your version the program displays 56043.
-
 The program should list the words that can be made only from the letters entered but in any order.
 
 For THE, the words listed should be:
