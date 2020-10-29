@@ -1,4 +1,4 @@
-### Waters
+## Waters
 
 
 Write a C# app using Visual Studio that would help in playing word games. The application should include a UI that allows users to type in letters and then display the count and the list of English words that can be made from those letters by referencing the supplied word list. An installer program is not required, it is sufficient to be able to run from with Visual Studio.
